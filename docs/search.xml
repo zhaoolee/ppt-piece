@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/ppt-piece/design/</url>
+    <content><![CDATA[<hr>
+<p>title: 版式设计的原则<br>date: 2019-11-19 06:46:18</p>
+<h2 id="tags-Design"><a href="#tags-Design" class="headerlink" title="tags: Design"></a>tags: Design</h2>]]></content>
+  </entry>
+  <entry>
     <title>使用emoji填充柱状图</title>
     <url>/ppt-piece/emoji_copy_paste/</url>
     <content><![CDATA[<h2 id="emoji-copy-paste"><a href="#emoji-copy-paste" class="headerlink" title="emoji copy paste"></a>emoji copy paste</h2><ul>
 <li>使用emoji填充图表</li>
 </ul>
 <p><img src="/ppt-piece/images/loading.png" data-original="https://user-images.githubusercontent.com/15868458/69109258-289c2680-0ab2-11ea-9b21-1f7d73758221.gif" alt="emoji"></p>
+]]></content>
+      <tags>
+        <tag>emoji</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>免费可商用字体</title>
+    <url>/ppt-piece/free_font/</url>
+    <content><![CDATA[<h2 id="思源黑体"><a href="#思源黑体" class="headerlink" title="思源黑体"></a>思源黑体</h2><p>下载页面: <a href="https://github.com/adobe-fonts/source-han-sans/tree/release" target="_blank" rel="noopener">https://github.com/adobe-fonts/source-han-sans/tree/release</a></p>
+<p>思源黑体提供以下七种字重:</p>
+<p><a href="https://github.com/adobe-fonts/source-han-sans/raw/release/OTC/SourceHanSansOTC_EL-R.zip" target="_blank" rel="noopener">ExtraLight + Light + Normal + Regular</a></p>
+<p><a href="https://github.com/adobe-fonts/source-han-sans/raw/release/OTC/SourceHanSansOTC_M-H.zip" target="_blank" rel="noopener">Medium + Bold + Heavy</a></p>
+<h2 id="思源宋体"><a href="#思源宋体" class="headerlink" title="思源宋体"></a>思源宋体</h2><p>下载页面: <a href="https://github.com/adobe-fonts/source-han-serif/tree/release" target="_blank" rel="noopener">https://github.com/adobe-fonts/source-han-serif/tree/release</a></p>
+<p>Simplified Chinese (简体中文): <a href="https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_EL-M.zip" target="_blank" rel="noopener">ExtraLight + Light + Regular + Medium</a> &amp; <a href="https://github.com/adobe-fonts/source-han-serif/raw/release/OTF/SourceHanSerifSC_SB-H.zip" target="_blank" rel="noopener">SemiBold + Bold + Heavy</a></p>
+<h2 id="庞梦正道标题体"><a href="#庞梦正道标题体" class="headerlink" title="庞梦正道标题体"></a>庞梦正道标题体</h2><p>链接: <a href="https://pan.baidu.com/s/1Xuxxmkv-w0q52ufTc7Dm-Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1Xuxxmkv-w0q52ufTc7Dm-Q</a> 提取码: atk1</p>
+<h2 id="站酷高端黑体"><a href="#站酷高端黑体" class="headerlink" title="站酷高端黑体"></a>站酷高端黑体</h2><p>下载页面: <a href="https://www.zcool.com.cn/special/zcoolfonts/" target="_blank" rel="noopener">https://www.zcool.com.cn/special/zcoolfonts/</a></p>
+<h2 id="站酷酷黑体"><a href="#站酷酷黑体" class="headerlink" title="站酷酷黑体"></a>站酷酷黑体</h2><p>下载页面: <a href="https://www.zcool.com.cn/special/zcoolfonts/" target="_blank" rel="noopener">https://www.zcool.com.cn/special/zcoolfonts/</a></p>
+<h2 id="站酷快乐体"><a href="#站酷快乐体" class="headerlink" title="站酷快乐体"></a>站酷快乐体</h2><p>下载页面: <a href="https://www.zcool.com.cn/special/zcoolfonts/" target="_blank" rel="noopener">https://www.zcool.com.cn/special/zcoolfonts/</a></p>
 ]]></content>
       <tags>
         <tag>emoji</tag>
