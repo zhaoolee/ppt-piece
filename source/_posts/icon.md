@@ -27,6 +27,7 @@ tags: 矢量图标
 
 ## 火柴人图标 （英文或日文搜索）
 
+[http://pictogram2.com/](http://pictogram2.com/)
 
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000003/a11387a118a2c959801bed51625ff722.png)
 
