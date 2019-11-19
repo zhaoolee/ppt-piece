@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>使用emoji填充柱状图</title>
     <url>/ppt-piece/emoji_copy_paste/</url>
-    <content><![CDATA[<h2 id="emoji-copy-paste"><a href="#emoji-copy-paste" class="headerlink" title="emoji copy paste"></a>emoji copy paste</h2>]]></content>
+    <content><![CDATA[<h2 id="emoji-copy-paste"><a href="#emoji-copy-paste" class="headerlink" title="emoji copy paste"></a>emoji copy paste</h2><ul>
+<li>使用emoji填充图表</li>
+</ul>
+<p><img src="/ppt-piece/images/loading.png" data-original="https://user-images.githubusercontent.com/15868458/69109258-289c2680-0ab2-11ea-9b21-1f7d73758221.gif" alt="emoji"></p>
+]]></content>
+      <tags>
+        <tag>emoji</tag>
+      </tags>
   </entry>
 </search>

@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 中国人的表情包
-subtitle: zhaoolee 木子昭 中国人的表情包
-description: 中国人的表情包
-keywords: zhaoolee 木子昭 中国人的表情包
+title: PPT的秘宝
+subtitle: zhaoolee 木子昭 PPT的秘宝
+description: PPT的秘宝
+keywords: zhaoolee 木子昭 PPT的秘宝
 author: zhaoolee
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhaoolee.github.io/ppt-piece
+url: https://zhaoolee.github.io/ppt-piece
 root: /ppt-piece/
 permalink: :title/
 permalink_defaults:
