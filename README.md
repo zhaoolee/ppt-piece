@@ -38,6 +38,8 @@ PPT不只是用心那么简单, 没有PPT相关的知识和方法, 只会"越用
 
 > 在英文中使用引号,应为 "", **Where there is "love" there is life.**
 
+![](https://user-images.githubusercontent.com/15868458/69488565-d0946400-0ea5-11ea-9d99-b3ff476c5291.png)
+
 - 饼状图使用规范
 
 ![](https://user-images.githubusercontent.com/15868458/69488354-611d7500-0ea3-11ea-9bfa-88ee3f982a99.png)
